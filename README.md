@@ -22,7 +22,7 @@
 ### 方法2: 安装特定插件
 
 ```bash
-/plugin install datamodel-engineering@personal-claude-skills
+/plugin install datamodel-engineering@cc-skills
 ```
 
 ### 方法3: 在Claude Code中浏览

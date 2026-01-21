@@ -14,8 +14,8 @@
       "description": "Data modeling engineering toolkit including checkers, designers, and migrators for KMMOM data models",
       "version": "1.0.0",
       "author": {
-        "name": "Your Name",
-        "email": "your.email@example.com"
+        "name": "wq",
+        "email": "daviwang1224@qq.com"
       },
       "source": "./plugins/datamodel-engineering",
       "category": "data",

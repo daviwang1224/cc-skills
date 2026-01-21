@@ -5,9 +5,9 @@
 ## 📚 资源
 
 **官方文档**:
-- [Claude Code Plugins](https://docs.anthropic.com/en/docs/claude-code/plugins)
-- [Agent Skills](https://docs.anthropic.com/en/docs/claude-code/skills)
-- [Best Practices](https://docs.anthropic.com/en/docs/claude-code/skills#best-practices)
+- [Claude Code Plugins](https://code.claude.com/docs/en/plugins)
+- [Agent Skills](https://code.claude.com/docs/en/skills)
+- [Agent Skills](https://agentskills.io/specification)
 
 ## 🤔 何时创建新插件 vs 新技能
 
@@ -166,11 +166,11 @@
      "version": "1.0.0",
      "description": "插件描述",
      "author": {
-       "name": "Your Name",
-       "email": "your.email@example.com"
+       "name": "wq",
+       "email": "daviwang1224@qq.com"
      },
-     "homepage": "https://github.com/yourusername/cc-skills",
-     "repository": "https://github.com/yourusername/cc-skills",
+     "homepage": "https://github.com/daviwang1224/cc-skills",
+     "repository": "https://github.com/daviwang1224/cc-skills",
      "license": "MIT",
      "keywords": ["keyword1", "keyword2"]
    }
@@ -189,7 +189,7 @@
          "name": "plugin-name",
          "description": "简短描述",
          "version": "1.0.0",
-         "author": { "name": "Your Name" },
+         "author": { "name": "wq" },
          "source": "./plugins/plugin-name",
          "category": "development",
          "skills": []

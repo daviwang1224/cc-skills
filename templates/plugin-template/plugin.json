@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "插件简短描述",
   "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com"
+    "name": "wq",
+    "email": "daviwang1224@qq.com"
   },
-  "homepage": "https://github.com/yourusername/cc-skills",
-  "repository": "https://github.com/yourusername/cc-skills",
+  "homepage": "https://github.com/daviwang1224/cc-skills",
+  "repository": "https://github.com/daviwang1224/cc-skills",
   "license": "MIT",
   "keywords": [
     "keyword1",
