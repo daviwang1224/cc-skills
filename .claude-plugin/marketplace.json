@@ -1,0 +1,28 @@
+{
+  "name": "cc-skills",
+  "owner": {
+    "name": "wq",
+    "email": "daviwang1224@qq.com"
+  },
+  "metadata": {
+    "description": "Personal collection of Claude Code skills for software engineering and data modeling",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "datamodel-engineering",
+      "description": "Data modeling engineering toolkit including checkers, designers, and migrators for KMMOM data models",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "email": "your.email@example.com"
+      },
+      "source": "./plugins/datamodel-engineering",
+      "category": "data",
+      "strict": false,
+      "skills": [
+        "./plugins/datamodel-engineering/skills/datamodel-checker/SKILL.md"
+      ]
+    }
+  ]
+}

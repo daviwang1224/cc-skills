@@ -1,0 +1,17 @@
+{
+  "name": "plugin-name",
+  "version": "1.0.0",
+  "description": "插件简短描述",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "homepage": "https://github.com/yourusername/cc-skills",
+  "repository": "https://github.com/yourusername/cc-skills",
+  "license": "MIT",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ]
+}
