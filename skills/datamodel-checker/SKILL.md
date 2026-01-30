@@ -231,7 +231,6 @@ allowed-tools: Read, Write, Glob, Grep
 - ISA95模式建议→ℹ️提示
 - 类型不匹配/约束不合理/长度异常→⚠️警告
 
-参考：[references/isa95.md](references/isa95.md)
 
 ### 第三步：生成检查报告
 
@@ -257,5 +256,4 @@ allowed-tools: Read, Write, Glob, Grep
 ## 参考资源
 
 - [检查报告模板](references/template.md)
-- [ISA95设计模式详细说明](references/isa95.md)
 

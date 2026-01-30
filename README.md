@@ -41,6 +41,15 @@
   - 问题分级（严重错误❌ / 警告⚠️ / 提示ℹ️）
   - 生成详细检查报告
 
+## 📚 文档
+
+### 目录规划
+- **[目录结构规范](docs/directory-structure-spec.md)**：cc-skills 的目录组织规范和命名约定
+- **[具体目录规划](docs/directory-plan.md)**：基于 slash-command-kit 的 30 个 commands 的具体目录规划
+
+### 贡献指南
+- **[贡献指南](CLAUDE.md)**：如何添加新技能和插件
+
 ## 🛠️ 开发指南
 
 ### 添加新技能
@@ -53,40 +62,38 @@
 
 详细步骤查看 [CLAUDE.md](CLAUDE.md)
 
-## 📂 仓库结构
+## 📂 目录组织规范
+
+### 仓库结构
 
 ```
 cc-skills/
-├── .claude-plugin/           # 市场配置
+├── .claude-plugin/
 │   └── marketplace.json
-├── plugins/                  # 插件目录
-│   └── datamodel-engineering/
-│       ├── .claude-plugin/
-│       │   └── plugin.json
-│       ├── skills/
-│       │   └── datamodel-checker/
-│       └── README.md
-├── templates/                # 技能和插件模板
-├── docs/                     # 文档
-├── README.md                 # 本文件
-└── CLAUDE.md                 # 贡献指南
+├── skills/
+│   └── <skill-name>/
+│       ├── SKILL.md
+│       ├── references/
+│       ├── scripts/
+│       ├── examples/
+│       ├── templates/
+│       └── assets/
+├── template/
+│   └── SKILL.md
+├── docs/
+├── README.md
+└── CLAUDE.md
 ```
 
-## 🎯 路线图
+### 目录说明
 
-### 近期计划
-- ✅ datamodel-engineering 插件（1个技能）
-- ⏳ 添加 datamodel-designer 技能
-- ⏳ 添加 datamodel-migrator 技能
+**仓库级别**
+- `.claude-plugin/` - 市场配置目录
+- `skills/` - 所有技能的根目录
+- `template/` - 技能模板目录
+- `docs/` - 文档目录（可选）
 
-### 中期规划
-- ⏳ ipd-project-management 插件（3个技能）
-- ⏳ architecture-design 插件（3个技能）
-- ⏳ documentation-toolkit 插件（3个技能）
 
-### 长期目标
-- 🎯 达到 50+ 技能
-- 🎯 覆盖 5-8 个业务域
 
 ## 📄 许可证
 
