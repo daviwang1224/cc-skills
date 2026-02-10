@@ -18,6 +18,7 @@
         "./skills/ask-clarify",
         "./skills/collaborative-partner",
         "./skills/datamodel-checker",
+        "./skills/lowcode-biweekly-report",
         "./skills/meeting-summarizer",
         "./skills/mind-organizer",
         "./skills/mr-code-reviewer",

@@ -38,7 +38,7 @@
 
 ## 技能列表
 
-本仓库包含 **10 个技能**，按功能分类如下：
+本仓库包含 **11 个技能**，按功能分类如下：
 
 ### 需求与协作 (3)
 
@@ -61,12 +61,13 @@
 |------|------|---------|
 | [datamodel-checker](skills/datamodel-checker/) | 数据模型检查 | 验证KMMOM数据模型规范符合性，检查7大维度，生成详细报告 |
 
-### 文档与报告 (3)
+### 文档与报告 (4)
 
 | 技能 | 描述 | 主要功能 |
 |------|------|---------|
 | [meeting-summarizer](skills/meeting-summarizer/) | 会议纪要总结器 | 将会议内容智能整理为规范的会议纪要文档，自动识别会议类型和行动项 |
 | [week-report-assistant](skills/week-report-assistant/) | 双周汇报助手 | 从团队工作日志生成结构化的双周进展汇报，支持IPD标准 |
+| [lowcode-biweekly-report](skills/lowcode-biweekly-report/) | 低代码平台双周日报助手 | 自动化生成低代码平台双周日报，包括数据清洗、交互式信息收集和报告生成 |
 | [team-monthly-evaluation](skills/team-monthly-evaluation/) | 团队月度评价 | 自动化生成团队月度综合评价，包括数据清洗、统计分析、绩效评估 |
 
 ### Prompt 工程 (1)
