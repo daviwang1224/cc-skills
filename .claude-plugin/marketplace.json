@@ -21,6 +21,7 @@
         "./skills/lowcode-biweekly-report",
         "./skills/meeting-summarizer",
         "./skills/mind-organizer",
+        "./skills/mind-partner",
         "./skills/mr-code-reviewer",
         "./skills/oss-scanner",
         "./skills/prompt-optimizer",
