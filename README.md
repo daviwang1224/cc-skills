@@ -28,7 +28,7 @@ description: 简要说明技能做什么，以及什么场景下使用。
 
 ## 技能列表
 
-当前仓库包含 **20 个技能**。
+当前仓库包含 **21 个技能**。
 
 ### 需求与产品协作
 
@@ -47,6 +47,7 @@ description: 简要说明技能做什么，以及什么场景下使用。
 | [datamodel-checker](datamodel-checker/) | 数据模型检查 | 验证 MOM 数据模型规范符合性和业务设计合理性 |
 | [interviewer-review-assistant](interviewer-review-assistant/) | 面试官复盘助手 | 复盘面试提问质量、追问闭环和能力覆盖 |
 | [isa95-model-reviewer](isa95-model-reviewer/) | ISA-95 模型评审 | 评审制造业业务模型、领域模型和数据模型的合理性 |
+| [mom-standard-expert](mom-standard-expert/) | MOM 标准业务方案评审 | 评审概述、标准业务流程和业务场景的 MOM 闭环、跨客户共性及产品、配置、KMCDAP、项目和外部系统归属 |
 | [oss-scanner](oss-scanner/) | 开源组件扫描与合规分析 | 扫描依赖并分析许可证合规风险 |
 | [ubiquitous-language](ubiquitous-language/) | 统一语言 | 维护 CONTEXT.md / CONTEXT-MAP.md，统一项目领域术语 |
 
@@ -99,3 +100,4 @@ description: 简要说明技能做什么，以及什么场景下使用。
 ## 许可证
 
 MIT License
+
