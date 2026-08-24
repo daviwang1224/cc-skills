@@ -28,14 +28,14 @@ description: 简要说明技能做什么，以及什么场景下使用。
 
 ## 技能列表
 
-当前仓库包含 **21 个技能**。
+当前仓库包含 **22 个技能**。
 
 ### 需求与产品协作
 
 | 技能 | 描述 | 主要功能 |
 |------|------|---------|
 | [agent-md-advisor](agent-md-advisor/) | Agent 指令文件顾问 | 审查、诊断、重写或创建 AGENTS.md / CLAUDE.md 等 agent 指令文件 |
-| [ask-clarify](ask-clarify/) | 需求澄清与结构化 | 将模糊需求转化为可执行任务定义 |
+| [ask-clarify](ask-clarify/) | 反谄媚需求澄清 | 通过双向钢人论证和递进追问，帮助用户区分表面问题与真实问题，找到问题本质 |
 | [mind-partner](mind-partner/) | 私人 AI 协作伙伴 | 基于用户背景进行想法分析、方案设计和决策辅助 |
 | [prd-writer](prd-writer/) | PRD 编写助手 | 引导产品发现对话并生成中文 PRD |
 | [think2do](think2do/) | 谋定而后动，先想再做 | 简单任务中先澄清目标，再给出多方案对比和推荐结论 |
@@ -61,6 +61,7 @@ description: 简要说明技能做什么，以及什么场景下使用。
 | [seed-sprout-report](seed-sprout-report/) | 发芽报告助手 | 将记录、笔记或想法拓展成跨领域联想文本 |
 | [sop-creator](sop-creator/) | SOP 创建器 | 将业务流程整理为可执行的标准作业程序 |
 | [work-thought-doc-writer](work-thought-doc-writer/) | 工作洞察文章写作 | 将工作素材、管理观察和产品判断写成中文洞察文章 |
+| [team-worklog](team-worklog/) | 团队工作日志 | 将口语化、零散或流水账式工作记录转译为一整段专业日志 |
 
 ### 绩效与评价
 
